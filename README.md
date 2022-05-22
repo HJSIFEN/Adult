@@ -66,6 +66,7 @@ Using Only train_data,,,
  - 50% : 178356
  - 75% : 237051
  <br>
+ 
  #### 3. Education-num <br>
  ![image](https://user-images.githubusercontent.com/60573146/169685259-83779891-0f1c-4e4a-a592-fb373564cb3c.png) <br>
  - Mean : 10.08
@@ -75,14 +76,42 @@ Using Only train_data,,,
  - 25% : 9
  - 50% : 10
  - 75% : 12
- #### 4. Capital-Gain<br>
+<br>
+
+ #### 4. Capital-Gain <br>
  ![image](https://user-images.githubusercontent.com/60573146/169685248-4584ac20-5872-47ef-b5d4-99efbaa35b51.png)
+ - Mean : 1077.65
+ - std : 7385.29
+ - min : 0
+ - max : 99999
+ - 25% : 0
+ - 50% : 0
+ - 75% : 99999 (?)
+ - It's not good distribution. Almost datas are at 0 and fews are at 99999
+<br>
+
+ #### 5. Capital-loss <br>
  ![image](https://user-images.githubusercontent.com/60573146/169685268-3dac2389-c0b6-46a4-ac39-aab4a147457a.png)
+ - Mean : 87.30
+ - std : 402.96
+ - min : 0
+ - max : 4356
+ - 25% : 0
+ - 50% : 0
+ - 75% : 0 (?)
+ - It's not good distribution. Almost dataws are at 0 and fews are at 4356
+<br>
+
+#### 6. hours-per-week <br>
  ![image](https://user-images.githubusercontent.com/60573146/169685278-d9bde248-14d8-4f44-bb0a-9f3fa0891f0a.png)
-
-
-
-
+ - Mean : 40.44
+ - std : 12.34
+ - min : 1
+ - max : 99
+ - 25% : 40
+ - 50% : 40
+ - 75% : 45 (?)
+ <br> 50% people work 40~45 hours per week. Min is one(?) and Max is 99(???????)
 
 ### 2. Categorical Attiribute 
  ![image](https://user-images.githubusercontent.com/60573146/169684982-89af5de0-26cd-4699-b664-89dc17f95825.png)

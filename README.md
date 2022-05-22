@@ -45,11 +45,51 @@ Using Only train_data,,,
 
 ## 3. Histogram
 ### 1. Numberical Attribute
- ![image](https://user-images.githubusercontent.com/60573146/169684908-a41c28cb-04e8-4218-a34a-f955b0c761f5.png)
+ #### 1. Age
+ ![image](https://user-images.githubusercontent.com/60573146/169685186-92b9bfb7-f073-4147-a9ee-5b3a1b6bd24c.png)
+ - Mean : 38.5
+ - std : 13.64
+ - min : 17
+ - max : 90
+ - 25% : 28
+ - 50% : 37
+ - 75% : 48
+ <br>
+ #### 2. fnlwgt
+ ![image](https://user-images.githubusercontent.com/60573146/169685194-0a8c2a93-f179-4551-89d3-e85c1e191cf0.png)
+ - Mean : 189778
+ - std : 105550
+ - min : 12285
+ - max : 1484705
+ - 25% : 117827
+ - 50% : 178356
+ - 75% : 237051
+ <br>
+ #### 3. Education-num
+ ![image](https://user-images.githubusercontent.com/60573146/169685259-83779891-0f1c-4e4a-a592-fb373564cb3c.png)
+ - Mean : 10.08
+ - std : 2.57
+ - min : 1
+ - max : 16
+ - 25% : 9
+ - 50% : 10
+ - 75% : 12
+ #### 4. Capital-Gain
+ ![image](https://user-images.githubusercontent.com/60573146/169685248-4584ac20-5872-47ef-b5d4-99efbaa35b51.png)
+ ![image](https://user-images.githubusercontent.com/60573146/169685268-3dac2389-c0b6-46a4-ac39-aab4a147457a.png)
+ ![image](https://user-images.githubusercontent.com/60573146/169685278-d9bde248-14d8-4f44-bb0a-9f3fa0891f0a.png)
+
+
+
+
 
 ### 2. Categorical Attiribute 
  ![image](https://user-images.githubusercontent.com/60573146/169684982-89af5de0-26cd-4699-b664-89dc17f95825.png)
  ![image](https://user-images.githubusercontent.com/60573146/169685004-d6191a57-64b8-473a-a9b3-1ddd87293ab5.png)
+ ![image](https://user-images.githubusercontent.com/60573146/169685203-88ca9f37-241b-4a13-9c13-106ad43d9ba8.png)
+ ![image](https://user-images.githubusercontent.com/60573146/169685213-cc4d69ba-f2c9-445c-9ad4-184512e55c39.png)
+
+
  ![image](https://user-images.githubusercontent.com/60573146/169685010-b3d955fd-87b4-4325-8b15-3e94fd64ac75.png)
  ![image](https://user-images.githubusercontent.com/60573146/169685018-3c3616af-2a2e-499f-8187-712094bbc953.png)
  ![image](https://user-images.githubusercontent.com/60573146/169685058-808f89bf-3d0d-46e9-ad5a-c28cad97b8c6.png)

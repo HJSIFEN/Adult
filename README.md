@@ -22,12 +22,12 @@ It is data analysis with
 ## 1. Dataset
 <a href = https://archive.ics.uci.edu/ml/datasets/adult >Adult Dataset</a>
 
-- Train_data
+- Train_data <br>
  ![image](https://user-images.githubusercontent.com/60573146/169684532-39c07e2c-0843-4244-9a10-d735faf5c418.png)
  - length : 32561
  - There is Null data in workCalss,  Opccuptation, native-country.
 
-- Test Data
+- Test Data <br>
  ![image](https://user-images.githubusercontent.com/60573146/169684542-15a95979-27f1-40e6-abd2-3a1ad78b2786.png)
  - 16281
  - There is Null data in workClas, Opccuptation, native-country

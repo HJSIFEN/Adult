@@ -34,13 +34,15 @@ It is data analysis with
 
 ## 2. Descriptive Statistic
 Using Only train_data,,,
-- Train_data
+- Train_data <br>
  ![image](https://user-images.githubusercontent.com/60573146/169684624-d72b33e3-6a13-47a5-bf71-0c9ca7b615bf.png)
 
-- Number Attributes
+- Numberical Attributes <br>
  ![image](https://user-images.githubusercontent.com/60573146/169684668-6f2be880-069d-4dec-a1c1-01b12d7d5176.png)
 
-- Categorical Attributes
+- Categorical Attributes <br>
  ![image](https://user-images.githubusercontent.com/60573146/169684680-a587affd-2a8e-43b1-ab64-a0f11584cd1d.png)
 
+## 3. Numberical Attribute Histogram
+![image](https://user-images.githubusercontent.com/60573146/169684865-09a2ce0f-5a07-4128-95f8-b8aa55a6e92d.png)
 

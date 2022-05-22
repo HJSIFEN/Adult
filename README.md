@@ -46,5 +46,18 @@ Using Only train_data,,,
 ## 3. Histogram
 ### 1. Numberical Attribute
  ![image](https://user-images.githubusercontent.com/60573146/169684908-a41c28cb-04e8-4218-a34a-f955b0c761f5.png)
- 
+
+### 2. Categorical Attiribute 
+ ![image](https://user-images.githubusercontent.com/60573146/169684982-89af5de0-26cd-4699-b664-89dc17f95825.png)
+ ![image](https://user-images.githubusercontent.com/60573146/169685004-d6191a57-64b8-473a-a9b3-1ddd87293ab5.png)
+ ![image](https://user-images.githubusercontent.com/60573146/169685010-b3d955fd-87b4-4325-8b15-3e94fd64ac75.png)
+ ![image](https://user-images.githubusercontent.com/60573146/169685018-3c3616af-2a2e-499f-8187-712094bbc953.png)
+ ![image](https://user-images.githubusercontent.com/60573146/169685058-808f89bf-3d0d-46e9-ad5a-c28cad97b8c6.png)
+ ![image](https://user-images.githubusercontent.com/60573146/169685036-1fb28765-b985-4288-8e1e-622017d76487.png)
+ ![image](https://user-images.githubusercontent.com/60573146/169685070-ea4a6b40-35a5-4aa8-bfea-06e88b7fdee6.png)
+ ![image](https://user-images.githubusercontent.com/60573146/169685081-aad41ccc-e34a-48cd-8988-2484c001efa1.png)
+
+
+
+
 

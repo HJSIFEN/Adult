@@ -66,8 +66,8 @@ Using Only train_data,,,
  - 50% : 178356
  - 75% : 237051
  <br>
- #### 3. Education-num<br>
- ![image](https://user-images.githubusercontent.com/60573146/169685259-83779891-0f1c-4e4a-a592-fb373564cb3c.png)<br>
+ #### 3. Education-num <br>
+ ![image](https://user-images.githubusercontent.com/60573146/169685259-83779891-0f1c-4e4a-a592-fb373564cb3c.png) <br>
  - Mean : 10.08
  - std : 2.57
  - min : 1

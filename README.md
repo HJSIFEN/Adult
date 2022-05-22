@@ -1,4 +1,5 @@
 # Adult Data Analysis
+## 0. Contents
 It is data analysis with
  - Descriptive Statistics (기술통계)
  - Univariate analysis (frequency table, histogram, boxplot, etc.) 단변량분석 (빈도테이블, 히스토그램, 박스플랏)
@@ -9,7 +10,17 @@ It is data analysis with
     - LDA (Linear Discriminant Analysis, LDA)
     - KNN (K-Nearest Neighbor)
     - SVM (Support Vector Machine)
+    - MLP (Multi layer Perceptron)
+ - Experiment
+   - Just Training
+   - OneHotEncoding
+   - MinMaxScaling & OneHotEncoding
+   - StandardScaler & OneHotEncoding
+ - Test & Estimation_
 
 
 ## 1. DataSet
 <a href = https://archive.ics.uci.edu/ml/datasets/adult >Adult Dataset</a>
+
+
+

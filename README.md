@@ -43,6 +43,8 @@ Using Only train_data,,,
 - Categorical Attributes <br>
  ![image](https://user-images.githubusercontent.com/60573146/169684680-a587affd-2a8e-43b1-ab64-a0f11584cd1d.png)
 
-## 3. Numberical Attribute Histogram
-![image](https://user-images.githubusercontent.com/60573146/169684865-09a2ce0f-5a07-4128-95f8-b8aa55a6e92d.png)
+## 3. Histogram
+### 1. Numberical Attribute
+ ![image](https://user-images.githubusercontent.com/60573146/169684908-a41c28cb-04e8-4218-a34a-f955b0c761f5.png)
+ 
 

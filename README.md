@@ -11,11 +11,11 @@ It is data analysis with
     - KNN (K-Nearest Neighbor)
     - SVM (Support Vector Machine)
     - MLP (Multi layer Perceptron)
- - Experiment
-   - Just Training
-   - OneHotEncoding
-   - MinMaxScaling & OneHotEncoding
-   - StandardScaler & OneHotEncoding
+ - Training with several Experiments
+   - Only Numerical Data Training
+   - Categorical Data OneHotEncoding
+   - MinMaxScaling & Categorical Data OneHotEncoding
+   - StandardScaler & Categorical Data OneHotEncoding
  - Test & Estimation_
 
 
@@ -86,7 +86,7 @@ Using Only train_data,,,
  - max : 99999
  - 25% : 0
  - 50% : 0
- - 75% : 99999 (?)
+ - 75% : 0
  - It's not good distribution. Almost datas are at 0 and fews are at 99999
 <br>
 
@@ -98,7 +98,7 @@ Using Only train_data,,,
  - max : 4356
  - 25% : 0
  - 50% : 0
- - 75% : 0 (?)
+ - 75% : 0
  - It's not good distribution. Almost dataws are at 0 and fews are at 4356
 <br>
 
@@ -115,6 +115,21 @@ Using Only train_data,,,
 
 ### 2. Categorical Attiribute 
  ![image](https://user-images.githubusercontent.com/60573146/169684982-89af5de0-26cd-4699-b664-89dc17f95825.png)
+ 
+ 빈도테이블
+===============================================
+workClass_freq_table
+                   freq    r_freq     p_freq
+Private           22696  0.697030  69.703019
+Self-emp-not-inc   2541  0.078038   7.803814
+Local-gov          2093  0.064279   6.427935
+State-gov          1298  0.039864   3.986364
+Self-emp-inc       1116  0.034274   3.427413
+Federal-gov         960  0.029483   2.948312
+Without-pay          14  0.000430   0.042996
+Never-worked          7  0.000215   0.021498
+===============================================
+ 
  ![image](https://user-images.githubusercontent.com/60573146/169685004-d6191a57-64b8-473a-a9b3-1ddd87293ab5.png)
  ![image](https://user-images.githubusercontent.com/60573146/169685203-88ca9f37-241b-4a13-9c13-106ad43d9ba8.png)
  ![image](https://user-images.githubusercontent.com/60573146/169685213-cc4d69ba-f2c9-445c-9ad4-184512e55c39.png)

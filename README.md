@@ -13,10 +13,21 @@ It is data analysis with
     - MLP (Multi layer Perceptron)
  - Training with several Experiments
    - Only Numerical Data Training
-   - Categorical Data OneHotEncoding
+   - Numerical Data + Categorical Data OneHotEncoding
    - MinMaxScaling & Categorical Data OneHotEncoding
    - StandardScaler & Categorical Data OneHotEncoding
  - Test & Estimation_
+
+
+# Result
+
+![image](https://user-images.githubusercontent.com/60573146/169687940-b225d599-a84c-43e3-822e-93fff5080c47.png)
+
+gray :  Only Numerical Data Training <br>
+blue : Numerical Data + Categorical Data OneHotEncoding <br>
+red :  Numerical Data(MinMaxScaling) & Categorical Data OneHotEncoding <br>
+Yellow : Numerical Data(StandardScaler) & Categorical Data OneHotEncoding <br>
+
 
 
 ## 1. Dataset
@@ -115,20 +126,7 @@ Using Only train_data,,,
 
 ### 2. Categorical Attiribute 
  ![image](https://user-images.githubusercontent.com/60573146/169684982-89af5de0-26cd-4699-b664-89dc17f95825.png)
- 
- 빈도테이블 <br>
-=============================================== <br>
-workClass_freq_table <br>
-                   freq    r_freq     p_freq <br>
-Private           22696  0.697030  69.703019 <br>
-Self-emp-not-inc   2541  0.078038   7.803814 <br>
-Local-gov          2093  0.064279   6.427935 <br>
-State-gov          1298  0.039864   3.986364 <br>
-Self-emp-inc       1116  0.034274   3.427413 <br>
-Federal-gov         960  0.029483   2.948312 <br>
-Without-pay          14  0.000430   0.042996 <br>
-Never-worked          7  0.000215   0.021498 <br>
-=============================================== <br>
+
  
  ![image](https://user-images.githubusercontent.com/60573146/169685004-d6191a57-64b8-473a-a9b3-1ddd87293ab5.png)
  ![image](https://user-images.githubusercontent.com/60573146/169685203-88ca9f37-241b-4a13-9c13-106ad43d9ba8.png)

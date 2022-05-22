@@ -45,7 +45,7 @@ Using Only train_data,,,
 
 ## 3. Histogram
 ### 1. Numberical Attribute
- #### 1. Age
+ #### 1. Age 
  ![image](https://user-images.githubusercontent.com/60573146/169685186-92b9bfb7-f073-4147-a9ee-5b3a1b6bd24c.png)
  - Mean : 38.5
  - std : 13.64
@@ -55,8 +55,9 @@ Using Only train_data,,,
  - 50% : 37
  - 75% : 48
  <br>
- #### 2. fnlwgt
- ![image](https://user-images.githubusercontent.com/60573146/169685194-0a8c2a93-f179-4551-89d3-e85c1e191cf0.png)
+ 
+ #### 2. fnlwgt <br>
+ ![image](https://user-images.githubusercontent.com/60573146/169685194-0a8c2a93-f179-4551-89d3-e85c1e191cf0.png)<br>
  - Mean : 189778
  - std : 105550
  - min : 12285
@@ -65,8 +66,8 @@ Using Only train_data,,,
  - 50% : 178356
  - 75% : 237051
  <br>
- #### 3. Education-num
- ![image](https://user-images.githubusercontent.com/60573146/169685259-83779891-0f1c-4e4a-a592-fb373564cb3c.png)
+ #### 3. Education-num<br>
+ ![image](https://user-images.githubusercontent.com/60573146/169685259-83779891-0f1c-4e4a-a592-fb373564cb3c.png)<br>
  - Mean : 10.08
  - std : 2.57
  - min : 1
@@ -74,7 +75,7 @@ Using Only train_data,,,
  - 25% : 9
  - 50% : 10
  - 75% : 12
- #### 4. Capital-Gain
+ #### 4. Capital-Gain<br>
  ![image](https://user-images.githubusercontent.com/60573146/169685248-4584ac20-5872-47ef-b5d4-99efbaa35b51.png)
  ![image](https://user-images.githubusercontent.com/60573146/169685268-3dac2389-c0b6-46a4-ac39-aab4a147457a.png)
  ![image](https://user-images.githubusercontent.com/60573146/169685278-d9bde248-14d8-4f44-bb0a-9f3fa0891f0a.png)

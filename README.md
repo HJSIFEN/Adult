@@ -22,5 +22,6 @@ It is data analysis with
 ## 1. DataSet
 <a href = https://archive.ics.uci.edu/ml/datasets/adult >Adult Dataset</a>
 
+![image](https://user-images.githubusercontent.com/60573146/169684442-eb25e5b9-5691-45c3-bc25-9ba37368cba4.png)
 
 

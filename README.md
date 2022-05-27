@@ -125,20 +125,67 @@ Using Only train_data,,,
  <br> 50% people work 40~45 hours per week. Min is one(?) and Max is 99(???????)
 
 ### 2. Categorical Attiribute 
+
+
+Only up to 10%. For More Detail, please check jupyter notebook code!
+
+#### 1. workClass <br>
  ![image](https://user-images.githubusercontent.com/60573146/169684982-89af5de0-26cd-4699-b664-89dc17f95825.png)
+ - Privet 69%
+
+
+#### 2. Education <br>
+ ![image](https://user-images.githubusercontent.com/60573146/169685004-d6191a57-64b8-473a-a9b3-1ddd87293ab5.png)
+ - HS-grad 32%
+ - Some-colleage 22%
+ - Bachelors 16%
+
+
+#### 3. martial-status <br>
+ ![image](https://user-images.githubusercontent.com/60573146/170689633-2dab85f3-5ab9-4a11-98f8-7d771bafa218.png)
+ - Married-civ-spouse 45%
+ - Never-married 32%
+ - Divorced 13%
+ 
+ 
+#### 4. Occupation <br>
+ ![image](https://user-images.githubusercontent.com/60573146/170689595-be8c2016-2214-498c-8cf4-7f4f256eeae8.png)
+ - Prof-specialty 12%
+ - Craft-repair 12%
+ - Exec-managerial 12%
+ - Adm-clerical 11%
+ - Sales 11%
+ - Other-service 10%
+
+
+#### 5. relationship <br>
+ ![image](https://user-images.githubusercontent.com/60573146/170689557-8587c16f-4495-4a46-b765-76a880c353cc.png)
+ - Husband 40%
+ - Not-in-familty 25%
+ - Own-child 13%
+ - Unmarried 10%
+ 
+#### 6. race <br>
+ ![image](https://user-images.githubusercontent.com/60573146/170689538-9c0a702c-0414-4e2e-b115-9189bdd883e2.png)
+ - WHITE 85%
+ 
+
+#### 7. sex <br>
+ ![image](https://user-images.githubusercontent.com/60573146/170689501-b30a7921-504a-4169-80a4-1328d3f21401.png)
+ - Male 66%
+ - Female 33%
+ 
+ 
+#### 8. native-county <br>
+ ![image](https://user-images.githubusercontent.com/60573146/170689382-a9d5e838-39f9-4c3e-90ec-e7ffba126b1b.png)
+ - US 89%
 
  
- ![image](https://user-images.githubusercontent.com/60573146/169685004-d6191a57-64b8-473a-a9b3-1ddd87293ab5.png)
- ![image](https://user-images.githubusercontent.com/60573146/169685203-88ca9f37-241b-4a13-9c13-106ad43d9ba8.png)
- ![image](https://user-images.githubusercontent.com/60573146/169685213-cc4d69ba-f2c9-445c-9ad4-184512e55c39.png)
+### 3. Feature Correlation <br>
+![image](https://user-images.githubusercontent.com/60573146/170690317-8d0d5cb8-6245-4714-b186-459d9fe87eff.png)
 
+No Corelation each Features
 
- ![image](https://user-images.githubusercontent.com/60573146/169685010-b3d955fd-87b4-4325-8b15-3e94fd64ac75.png)
- ![image](https://user-images.githubusercontent.com/60573146/169685018-3c3616af-2a2e-499f-8187-712094bbc953.png)
- ![image](https://user-images.githubusercontent.com/60573146/169685058-808f89bf-3d0d-46e9-ad5a-c28cad97b8c6.png)
- ![image](https://user-images.githubusercontent.com/60573146/169685036-1fb28765-b985-4288-8e1e-622017d76487.png)
- ![image](https://user-images.githubusercontent.com/60573146/169685070-ea4a6b40-35a5-4aa8-bfea-06e88b7fdee6.png)
- ![image](https://user-images.githubusercontent.com/60573146/169685081-aad41ccc-e34a-48cd-8988-2484c001efa1.png)
 
 
 

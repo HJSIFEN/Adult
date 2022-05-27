@@ -190,7 +190,7 @@ No Corelation each Features
 
 <table>
  <th>
- <td>Decision Tree</td><td>Random Forest</td><td>LDA</td><td>KNN</td><td>SVN</td>
+ <td>Decision Tree</td><td>Random Forest</td><td>LDA</td><td>KNN</td><td>SVC</td>
  </th>
  <tr>
  <td>Numerical Values</td><td>0.816</td><td>0.81</td><td>0.838</td><td>0.852</td><td>0.802</td>

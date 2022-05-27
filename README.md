@@ -181,12 +181,12 @@ Only up to 10%. For More Detail, please check jupyter notebook code!
  - US 89%
 
  
-### 3. Feature Correlation <br>
+## 4. Feature Correlation <br>
 ![image](https://user-images.githubusercontent.com/60573146/170690317-8d0d5cb8-6245-4714-b186-459d9fe87eff.png)
 
 No Corelation each Features
 
-## 4. TEST ACC
+## 5. TEST ACC
 
 <table>
  <th>

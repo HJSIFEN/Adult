@@ -193,7 +193,16 @@ No Corelation each Features
  <td>Decision Tree</td><td>Random Forest</td><td>LDA</td><td>KNN</td><td>SVN</td>
  </th>
  <tr>
- <td>Numerical Value</td><td>0.816</td><td>0.81</td><td>0.838</td><td>0.852</td><td>0.802</td>
+ <td>Numerical Values</td><td>0.816</td><td>0.81</td><td>0.838</td><td>0.852</td><td>0.802</td>
+ </tr>
+ <tr>
+ <td>All Values</td><td>0.852</td><td>0.857</td><td>0.838</td><td>0.768</td><td>0.791</td>
+ </tr>
+ <tr>
+ <td>All Values + MinMaxScaling</td><td>0.852</td><td>0.858</td><td>0.838</td><td>0.852</td><td>0.802</td>
+ </tr>
+ <tr>
+ <td>All Values + StandardScaling</td><td>0.852</td><td>0.857</td><td>0.838</td><td>0.835</td><td>0.856</td>
  </tr>
  
 
